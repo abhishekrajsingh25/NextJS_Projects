@@ -9,7 +9,7 @@
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/abhishekrajsingh25/NextJS_Projects.git
-   cd React_Projects
+   cd NextJS_Projects
    ```
    
 2. **Install Frontend Dependencies**
@@ -24,11 +24,11 @@
    ```bash
    npm run dev
    ```
-   The frontend should now be running on `http://localhost:5173`.
+   The frontend should now be running on `http://localhost:3000`.
 
 ## Usage
 
-1. Open `http://localhost:5173` in a web browser.
+1. Open `http://localhost:3000` in a web browser.
 
 ## Contributing
 
